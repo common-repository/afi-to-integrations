@@ -1,0 +1,13 @@
+.afi-banner {
+	padding: 15px; margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+} 
+
+.afi-attention-banner {
+	color: #765c3c;
+	background-color: #f0e7d8;
+	border-color: #e9dfc6;
+}
